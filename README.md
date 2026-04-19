@@ -2,6 +2,8 @@
 
 Si tienes algún problema o sugerencia sobre la app **Gastos Compartidos**, abre un [issue](../../issues) en este repositorio.
 
+🇬🇧 English version: [README.en.md](README.en.md)
+
 ## Preguntas frecuentes
 
 ### ¿Necesito crear una cuenta?
