@@ -265,7 +265,7 @@ Nein. Die App hat keine In-App-Käufe und keine Abonnements. Alle Funktionen sin
 Du wählst einen Ordner in deinem iCloud Drive und die App exportiert/importiert eine JSON-Datei in diesem Ordner. Wenn du den Ordner mit einer anderen Person teilst, bleiben beide Geräte synchron. Die App nutzt keine eigenen Server.
 
 #### Kann ich neben meinem Gehalt weitere Einnahmen erfassen?
-Ja. Im Tab „Einkommen" kannst du mehrere Einträge im selben Monat erfassen: dein reguläres Gehalt, ein 13./14. Gehalt, Mieteinnahmen, einen einmaligen Auftrag, jeweils mit eigener Bezeichnung. Alle zählen zum „Verdient vs. Ausgegeben" auf dem Startbildschirm, zur Jahresübersicht und zu den Szenarien.
+Ja. Im Tab „Einkommen“ kannst du mehrere Einträge im selben Monat erfassen: dein reguläres Gehalt, ein 13./14. Gehalt, Mieteinnahmen, einen einmaligen Auftrag, jeweils mit eigener Bezeichnung. Alle zählen zum „Verdient vs. Ausgegeben“ auf dem Startbildschirm, zur Jahresübersicht und zu den Szenarien.
 
 #### Kann ich vor einer Abbuchung erinnert werden?
 Ja. Aktiviere die Benachrichtigungen in den Einstellungen und wähle, wie viele Tage im Voraus du an anstehende Abbuchungen erinnert werden möchtest.
