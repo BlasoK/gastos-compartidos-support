@@ -53,7 +53,7 @@ Desde la pantalla de bloqueo hay una opción de recuperación. Si no recuerdas n
 
 ### Política de privacidad
 
-**Última actualización: 28 de septiembre de 2026**
+**Última actualización: 2 de octubre de 2026**
 
 #### Datos que recopilamos
 La app **no recopila ni envía datos personales a ningún servidor externo**. Toda la información (gastos, ingresos, métodos de pago, configuración) se almacena exclusivamente en tu dispositivo (SwiftData en iPhone; una base de datos SQLite local en Android).
@@ -77,7 +77,7 @@ El acceso a la app se protege con un PIN local (4-8 dígitos) y, opcionalmente, 
 La exportación e importación de datos en CSV es iniciada siempre por ti, y los ficheros se generan en carpetas que tú eliges. La app no envía esos ficheros a ningún sitio de forma automática.
 
 #### Conexiones a internet
-La app solo se conecta a internet para cuatro cosas, y ninguna envía tus datos personales: descargar el logotipo público de un servicio de suscripción que añadas (se consulta el dominio del servicio, por ejemplo netflix.com, a un proveedor público de iconos), actualizar las tasas de cambio de divisa desde una API pública, solo en Android, comprobar si hay una versión nueva consultando el repositorio público del proyecto en GitHub y, solo en iPhone, recibir los avisos de la app a través de iCloud. Ninguna de estas peticiones incluye tus gastos, ingresos, nombre ni identificadores personales.
+La app solo se conecta a internet para cuatro cosas, y ninguna envía tus datos personales: descargar el logotipo público de un servicio de suscripción, un proveedor o una entidad de financiación que añadas (se consulta su dominio, por ejemplo netflix.com o cofidis.es, a un proveedor público de iconos), actualizar las tasas de cambio de divisa desde una API pública, solo en Android, comprobar si hay una versión nueva consultando el repositorio público del proyecto en GitHub y, solo en iPhone, recibir los avisos de la app a través de iCloud. Ninguna de estas peticiones incluye tus gastos, ingresos, nombre ni identificadores personales.
 
 #### Avisos de la app (iPhone)
 Desde la versión 5.0.0 la app puede recibir avisos nuestros sobre novedades y arreglos importantes, nunca publicidad. Los entrega Apple a través de iCloud (CloudKit): tu iPhone se suscribe de forma anónima a los avisos públicos de la app, y la app no envía ni guarda en iCloud ningún dato tuyo. Solo llegan si tienes las notificaciones activadas y una sesión de iCloud, y puedes desactivarlos en Perfil > Notificaciones > Avisos de la app.
@@ -139,7 +139,7 @@ The lock screen provides a recovery option. If you cannot recall any credential,
 
 ### Privacy Policy
 
-**Last updated: September 28, 2026**
+**Last updated: October 2, 2026**
 
 #### Data we collect
 The app **does not collect or send any personal data to external servers**. All information (expenses, income entries, payment methods, settings) is stored exclusively on your device (SwiftData on iPhone; a local SQLite database on Android).
@@ -163,7 +163,7 @@ App access is protected by a local PIN (4-8 digits) and optionally biometrics (F
 CSV export and import is always user-initiated, and files are written to folders you choose. The app does not send those files anywhere automatically.
 
 #### Internet connections
-The app only connects to the internet for four things, none of which sends your personal data: downloading the public logo of a subscription service you add (the service's domain, e.g. netflix.com, is looked up on a public icon provider), refreshing currency exchange rates from a public API, on Android only, checking whether a new version is available by querying the project's public GitHub repository and, on iPhone only, receiving app announcements through iCloud. None of these requests include your expenses, income, name or personal identifiers.
+The app only connects to the internet for four things, none of which sends your personal data: downloading the public logo of a subscription service, provider or financing entity you add (its domain, e.g. netflix.com or cofidis.es, is looked up on a public icon provider), refreshing currency exchange rates from a public API, on Android only, checking whether a new version is available by querying the project's public GitHub repository and, on iPhone only, receiving app announcements through iCloud. None of these requests include your expenses, income, name or personal identifiers.
 
 #### App announcements (iPhone)
 Since version 5.0.0 the app can receive announcements from us about news and important fixes, never ads. Apple delivers them through iCloud (CloudKit): your iPhone anonymously subscribes to the app's public announcements, and the app does not send or store any of your data in iCloud. They only arrive if notifications are on and you are signed in to iCloud, and you can turn them off in Profile > Notifications > App announcements.
@@ -225,7 +225,7 @@ Des de la pantalla de bloqueig hi ha una opció de recuperació. Si no recordes 
 
 ### Política de privadesa
 
-**Última actualització: 28 de setembre de 2026**
+**Última actualització: 2 d'octubre de 2026**
 
 #### Dades que recollim
 L'app **no recull ni envia dades personals a cap servidor extern**. Tota la informació (despeses, ingressos, mètodes de pagament, configuració) es desa exclusivament al teu dispositiu (SwiftData a l'iPhone; una base de dades SQLite local a Android).
@@ -249,7 +249,7 @@ L'accés a l'app es protegeix amb un PIN local (4-8 dígits) i, opcionalment, am
 L'exportació i importació de dades en CSV sempre la inicies tu, i els fitxers es generen a carpetes que tu tries. L'app no envia aquests fitxers enlloc de manera automàtica.
 
 #### Connexions a internet
-L'app només es connecta a internet per a quatre coses, i cap d'elles envia les teves dades personals: descarregar el logotip públic d'un servei de subscripció que afegeixis (es consulta el domini del servei, per exemple netflix.com, a un proveïdor públic d'icones), actualitzar els tipus de canvi de divisa des d'una API pública, només a Android, comprovar si hi ha una versió nova consultant el repositori públic del projecte a GitHub i, només a iPhone, rebre els avisos de l'app a través d'iCloud. Cap d'aquestes peticions inclou les teves despeses, ingressos, nom ni identificadors personals.
+L'app només es connecta a internet per a quatre coses, i cap d'elles envia les teves dades personals: descarregar el logotip públic d'un servei de subscripció, un proveïdor o una entitat de finançament que afegeixis (es consulta el seu domini, per exemple netflix.com o cofidis.es, a un proveïdor públic d'icones), actualitzar els tipus de canvi de divisa des d'una API pública, només a Android, comprovar si hi ha una versió nova consultant el repositori públic del projecte a GitHub i, només a iPhone, rebre els avisos de l'app a través d'iCloud. Cap d'aquestes peticions inclou les teves despeses, ingressos, nom ni identificadors personals.
 
 #### Avisos de l'app (iPhone)
 Des de la versió 5.0.0 l'app pot rebre avisos nostres sobre novetats i correccions importants, mai publicitat. Els lliura Apple a través d'iCloud (CloudKit): el teu iPhone se subscriu de manera anònima als avisos públics de l'app, i l'app no envia ni desa a iCloud cap dada teva. Només arriben si tens les notificacions activades i una sessió d'iCloud, i els pots desactivar a Perfil > Notificacions > Avisos de l'app.
@@ -311,7 +311,7 @@ Der Sperrbildschirm bietet eine Wiederherstellungsoption. Wenn du dich an keine 
 
 ### Datenschutzerklärung
 
-**Letzte Aktualisierung: 28. September 2026**
+**Letzte Aktualisierung: 2. Oktober 2026**
 
 #### Erhobene Daten
 Die App **erhebt oder sendet keine personenbezogenen Daten an externe Server**. Alle Informationen (Ausgaben, Einnahmen, Zahlungsarten, Einstellungen) werden ausschließlich auf deinem Gerät gespeichert (SwiftData auf dem iPhone; eine lokale SQLite-Datenbank unter Android).
@@ -335,7 +335,7 @@ Der App-Zugriff ist durch eine lokale PIN (4-8 Ziffern) und optional Biometrie (
 CSV-Export und -Import werden immer von dir initiiert, und die Dateien werden in Ordnern gespeichert, die du auswählst. Die App sendet diese Dateien nicht automatisch an andere Orte.
 
 #### Internetverbindungen
-Die App verbindet sich nur für vier Dinge mit dem Internet, und keines davon sendet deine personenbezogenen Daten: das öffentliche Logo eines von dir hinzugefügten Abo-Dienstes herunterladen (die Domain des Dienstes, z. B. netflix.com, wird bei einem öffentlichen Icon-Anbieter abgefragt), Wechselkurse über eine öffentliche API aktualisieren, nur unter Android prüfen, ob eine neue Version verfügbar ist, indem das öffentliche GitHub-Repository des Projekts abgefragt wird, und nur auf dem iPhone die App-Hinweise über iCloud empfangen. Keine dieser Anfragen enthält deine Ausgaben, Einnahmen, deinen Namen oder persönliche Kennungen.
+Die App verbindet sich nur für vier Dinge mit dem Internet, und keines davon sendet deine personenbezogenen Daten: das öffentliche Logo eines von dir hinzugefügten Abo-Dienstes, Anbieters oder Finanzierungsinstituts herunterladen (seine Domain, z. B. netflix.com oder cofidis.es, wird bei einem öffentlichen Icon-Anbieter abgefragt), Wechselkurse über eine öffentliche API aktualisieren, nur unter Android prüfen, ob eine neue Version verfügbar ist, indem das öffentliche GitHub-Repository des Projekts abgefragt wird, und nur auf dem iPhone die App-Hinweise über iCloud empfangen. Keine dieser Anfragen enthält deine Ausgaben, Einnahmen, deinen Namen oder persönliche Kennungen.
 
 #### App-Hinweise (iPhone)
 Seit Version 5.0.0 kann die App Hinweise von uns zu Neuigkeiten und wichtigen Korrekturen erhalten, niemals Werbung. Apple stellt sie über iCloud (CloudKit) zu: Dein iPhone abonniert anonym die öffentlichen Hinweise der App, und die App sendet oder speichert keine deiner Daten in iCloud. Sie kommen nur an, wenn Benachrichtigungen aktiviert sind und du bei iCloud angemeldet bist, und du kannst sie unter Profil > Benachrichtigungen > App-Hinweise deaktivieren.
@@ -397,7 +397,7 @@ L'écran de verrouillage propose une option de récupération. Si tu ne te souvi
 
 ### Politique de confidentialité
 
-**Dernière mise à jour : 28 septembre 2026**
+**Dernière mise à jour : 2 octobre 2026**
 
 #### Données collectées
 L'app **ne collecte ni n'envoie aucune donnée personnelle à des serveurs externes**. Toutes les informations (dépenses, revenus, moyens de paiement, paramètres) sont stockées exclusivement sur ton appareil (SwiftData sur iPhone ; une base de données SQLite locale sur Android).
@@ -421,7 +421,7 @@ L'accès à l'app est protégé par un PIN local (4-8 chiffres) et, en option, p
 L'export et l'import CSV sont toujours initiés par toi, et les fichiers sont écrits dans des dossiers de ton choix. L'app n'envoie ces fichiers à aucun endroit automatiquement.
 
 #### Connexions à internet
-L'app ne se connecte à internet que pour quatre choses, et aucune n'envoie tes données personnelles : télécharger le logo public d'un service d'abonnement que tu ajoutes (le domaine du service, par exemple netflix.com, est interrogé auprès d'un fournisseur public d'icônes), actualiser les taux de change via une API publique, uniquement sur Android, vérifier si une nouvelle version est disponible en interrogeant le dépôt GitHub public du projet et, uniquement sur iPhone, recevoir les annonces de l'app via iCloud. Aucune de ces requêtes ne contient tes dépenses, revenus, ton nom ni des identifiants personnels.
+L'app ne se connecte à internet que pour quatre choses, et aucune n'envoie tes données personnelles : télécharger le logo public d'un service d'abonnement, d'un fournisseur ou d'un organisme de financement que tu ajoutes (son domaine, par exemple netflix.com ou cofidis.es, est interrogé auprès d'un fournisseur public d'icônes), actualiser les taux de change via une API publique, uniquement sur Android, vérifier si une nouvelle version est disponible en interrogeant le dépôt GitHub public du projet et, uniquement sur iPhone, recevoir les annonces de l'app via iCloud. Aucune de ces requêtes ne contient tes dépenses, revenus, ton nom ni des identifiants personnels.
 
 #### Annonces de l'app (iPhone)
 Depuis la version 5.0.0, l'app peut recevoir nos annonces sur les nouveautés et les correctifs importants, jamais de publicité. Apple les distribue via iCloud (CloudKit) : ton iPhone s'abonne de façon anonyme aux annonces publiques de l'app, et l'app n'envoie ni n'enregistre aucune de tes données dans iCloud. Elles n'arrivent que si les notifications sont activées et que tu es connecté à iCloud, et tu peux les désactiver dans Profil > Notifications > Annonces de l'app.
@@ -483,7 +483,7 @@ La schermata di blocco offre un'opzione di recupero. Se non ricordi alcuna crede
 
 ### Informativa sulla privacy
 
-**Ultimo aggiornamento: 28 settembre 2026**
+**Ultimo aggiornamento: 2 ottobre 2026**
 
 #### Dati raccolti
 L'app **non raccoglie né invia dati personali a server esterni**. Tutte le informazioni (spese, entrate, metodi di pagamento, impostazioni) sono memorizzate esclusivamente sul tuo dispositivo (SwiftData su iPhone; un database SQLite locale su Android).
@@ -507,7 +507,7 @@ L'accesso all'app è protetto da un PIN locale (4-8 cifre) e, opzionalmente, dal
 L'esportazione e l'importazione CSV è sempre avviata da te, e i file vengono scritti in cartelle scelte da te. L'app non invia quei file automaticamente a nessuna destinazione.
 
 #### Connessioni a internet
-L'app si connette a internet solo per quattro cose, e nessuna invia i tuoi dati personali: scaricare il logo pubblico di un servizio in abbonamento che aggiungi (il dominio del servizio, ad esempio netflix.com, viene richiesto a un provider pubblico di icone), aggiornare i tassi di cambio da un'API pubblica, solo su Android, verificare se è disponibile una nuova versione consultando il repository GitHub pubblico del progetto e, solo su iPhone, ricevere gli avvisi dell'app tramite iCloud. Nessuna di queste richieste include le tue spese, entrate, il tuo nome o identificatori personali.
+L'app si connette a internet solo per quattro cose, e nessuna invia i tuoi dati personali: scaricare il logo pubblico di un servizio in abbonamento, di un fornitore o di un ente di finanziamento che aggiungi (il suo dominio, ad esempio netflix.com o cofidis.es, viene richiesto a un provider pubblico di icone), aggiornare i tassi di cambio da un'API pubblica, solo su Android, verificare se è disponibile una nuova versione consultando il repository GitHub pubblico del progetto e, solo su iPhone, ricevere gli avvisi dell'app tramite iCloud. Nessuna di queste richieste include le tue spese, entrate, il tuo nome o identificatori personali.
 
 #### Avvisi dell'app (iPhone)
 Dalla versione 5.0.0 l'app può ricevere nostri avvisi su novità e correzioni importanti, mai pubblicità. Li consegna Apple tramite iCloud (CloudKit): il tuo iPhone si iscrive in modo anonimo agli avvisi pubblici dell'app, e l'app non invia né salva in iCloud nessun tuo dato. Arrivano solo se hai le notifiche attive e un accesso a iCloud, e puoi disattivarli in Profilo > Notifiche > Avvisi dell'app.
@@ -569,7 +569,7 @@ O ecrã de bloqueio oferece uma opção de recuperação. Se não te lembras de 
 
 ### Política de privacidade
 
-**Última atualização: 28 de setembro de 2026**
+**Última atualização: 2 de outubro de 2026**
 
 #### Dados recolhidos
 A app **não recolhe nem envia dados pessoais para servidores externos**. Toda a informação (despesas, rendimentos, métodos de pagamento, definições) é guardada exclusivamente no teu dispositivo (SwiftData no iPhone; uma base de dados SQLite local no Android).
@@ -593,7 +593,7 @@ O acesso à app é protegido por um PIN local (4-8 dígitos) e, opcionalmente, p
 A exportação e importação em CSV é sempre iniciada por ti, e os ficheiros são escritos em pastas que escolhes. A app não envia esses ficheiros automaticamente para qualquer destino.
 
 #### Ligações à internet
-A app só se liga à internet para quatro coisas, e nenhuma envia os teus dados pessoais: descarregar o logótipo público de um serviço de subscrição que adiciones (o domínio do serviço, por exemplo netflix.com, é consultado a um fornecedor público de ícones), atualizar as taxas de câmbio a partir de uma API pública, apenas no Android, verificar se há uma versão nova consultando o repositório público do projeto no GitHub e, apenas no iPhone, receber os avisos da app através do iCloud. Nenhum destes pedidos inclui as tuas despesas, rendimentos, nome nem identificadores pessoais.
+A app só se liga à internet para quatro coisas, e nenhuma envia os teus dados pessoais: descarregar o logótipo público de um serviço de subscrição, de um fornecedor ou de uma entidade de financiamento que adiciones (o seu domínio, por exemplo netflix.com ou cofidis.es, é consultado a um fornecedor público de ícones), atualizar as taxas de câmbio a partir de uma API pública, apenas no Android, verificar se há uma versão nova consultando o repositório público do projeto no GitHub e, apenas no iPhone, receber os avisos da app através do iCloud. Nenhum destes pedidos inclui as tuas despesas, rendimentos, nome nem identificadores pessoais.
 
 #### Avisos da app (iPhone)
 Desde a versão 5.0.0 a app pode receber avisos nossos sobre novidades e correções importantes, nunca publicidade. É a Apple que os entrega através do iCloud (CloudKit): o teu iPhone subscreve de forma anónima os avisos públicos da app, e a app não envia nem guarda no iCloud nenhum dado teu. Só chegam se tiveres as notificações ativas e uma sessão no iCloud, e podes desativá-los em Perfil > Notificações > Avisos da app.
